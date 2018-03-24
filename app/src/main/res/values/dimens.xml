@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edittext_size_login">22sp</dimen>
+    <dimen name="padding_horizontal_login">32sp</dimen>
+    <dimen name="textsize_donthaveaccount">16sp</dimen>
+    <dimen name="edittext_margin_createacount">10dp</dimen>
+</resources>
